@@ -1,5 +1,5 @@
 # Graph Analysis Codes for Concept Maps
-*ver-2.0.2*
+*ver-2.1.0*
 
 **This program is designed to run in `Windows` env.**
 
