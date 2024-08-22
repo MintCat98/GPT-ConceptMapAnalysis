@@ -1,9 +1,6 @@
 # Graph Analysis Codes for Concept Maps
-*ver-2.1.1*
+*ver-2.2.0*
 
 **This program is designed to run in `Windows` env.**
 
->Requirements:
-    - `Pandas`
-    - `Matplotlib`
-    - `NetworkX`
+>Requirements: `Pandas` | `Matplotlib` | `NetworkX`
