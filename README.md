@@ -3,4 +3,4 @@
 
 **This program is designed to run in `Windows` env.**
 
->Requirements: `Pandas` | `Matplotlib` | `NetworkX`
+>Requirements: `Numpy` | `Pandas` | `Matplotlib` | `NetworkX`
